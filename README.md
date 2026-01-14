@@ -1,5 +1,5 @@
 ### **Word Analyzer README.md**
-```markdown
+
 # 📊 Text File Word Frequency Analyzer
 
 A simple GUI application to analyze text files and find the most frequent words.
