@@ -13,7 +13,7 @@ A simple GUI application to analyze text files and find the most frequent words.
 ## 🚀 Installation & Usage
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/text-analyzer.git
+git clone https://github.com/maalberto-engineer/word_analyzer.git
 
 # Install dependencies
 cd text-analyzer
