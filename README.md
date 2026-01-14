@@ -16,7 +16,7 @@ A simple GUI application to analyze text files and find the most frequent words.
 git clone https://github.com/maalberto-engineer/word_analyzer.git
 
 # Install dependencies
-cd text-analyzer
+cd word_analyzer
 pip install wxPython
 
 # Run application
