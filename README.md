@@ -1,4 +1,4 @@
-### **Text Analyzer README.md**
+### **Word Analyzer README.md**
 ```markdown
 # 📊 Text File Word Frequency Analyzer
 
