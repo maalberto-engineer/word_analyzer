@@ -12,12 +12,12 @@ A simple GUI application to analyze text files and find the most frequent words.
 
 ## 🚀 Installation & Usage
 ```bash
+# Install dependencies
+pip install wxPython
+
 # Clone repository
 git clone https://github.com/maalberto-engineer/word_analyzer.git
 
-# Install dependencies
-cd word_analyzer
-pip install wxPython
-
 # Run application
+cd word_analyzer
 python word_analyzer.py
